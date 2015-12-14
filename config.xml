@@ -36,8 +36,8 @@
   <gap:plugin name="org.apache.cordova.network-information"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="org.apache.cordova.vibration"/>
-  <icon src="faviconbible.png" platform="android" />
-  <icon src="faviconbible.png" platform="winphone" />
+  <icon src="https://cloud.githubusercontent.com/assets/15787441/11781901/f7454888-a29f-11e5-8c14-4f70f5fc39cd.png" platform="android" />
+  <icon src="https://cloud.githubusercontent.com/assets/15787441/11781901/f7454888-a29f-11e5-8c14-4f70f5fc39cd.png" platform="winphone" />
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
   <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
   <icon src="www/res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:qualifier="hdpi"/>
